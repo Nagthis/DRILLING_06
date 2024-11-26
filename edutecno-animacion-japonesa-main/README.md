@@ -12,11 +12,11 @@ Este es un proyecto para gestionar información sobre animación japonesa (anime
 1. Clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/Primo18/edutecno-animacion-japonesa.git
+git clone https://github.com/Nagthis/DRILLING_06/tree/main/edutecno-animacion-japonesa-main
 cd edutecno-animacion-japonesa
 ```
 2. Instala las dependencias del proyecto usando pnpm:
-
+    
 ```bash
 pnpm install
 ```
